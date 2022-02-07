@@ -47,10 +47,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Automated Test Depending on JSF 2.1</name>
-    # points to db IP/domian name  uat.flipkart10.com
-      #db name
-    #db password
-    #port: 8081
+    
   
   <build>
     <finalName>test-${project.artifactId}</finalName>
